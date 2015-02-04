@@ -1,10 +1,15 @@
 {
-"name": "Moodle Mobile",
+"name": "UoW Moodle App",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
+{
+    "fullname": "Juan Leyva",
+    "contribution": "Mobile App/Theme developer",
+    "company": "DA MANAGER"
+},
 {
     "fullname": "Juan Leyva",
     "contribution": "Main developer",
